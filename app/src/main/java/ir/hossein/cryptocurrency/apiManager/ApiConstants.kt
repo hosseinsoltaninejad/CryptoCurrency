@@ -3,7 +3,7 @@ package ir.hossein.cryptocurrency.apiManager
 // base url =>
 const val BASE_URL = "https://min-api.cryptocompare.com/data/"
 const val BASE_URL_IMAGE = "https://www.cryptocompare.com"
-const val API_KEY = "authorization: Apikey 98ac91fe0448e6e73045b9ac770b319602951c730179f0dee37ed6d3c58b767f"
+const val API_KEY = "authorization: Apikey 2f6419b8e6a6d259daa106ee5ae9119f747cf5a0c9b3aa7ee66231c68249a973"
 const val BASE_URL_TWITTER = "https://twitter.com/"
 
 // chart data =>
