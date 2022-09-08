@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Pool"
+rootProject.name = "Crypto Currency"
 include ':app'
