@@ -1,4 +1,4 @@
-package ir.hossein.cryptocurrency.features.coinActivity
+package ir.hosseinsoltani.cryptocurrency.features.coinActivity
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -7,12 +7,12 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.core.content.ContextCompat
-import ir.hossein.cryptocurrency.R
-import ir.hossein.cryptocurrency.apiManager.*
-import ir.hossein.cryptocurrency.apiManager.model.ChartData
-import ir.hossein.cryptocurrency.apiManager.model.CoinAboutItem
-import ir.hossein.cryptocurrency.apiManager.model.CoinsData
-import ir.hossein.cryptocurrency.databinding.ActivityCoinBinding
+import ir.hosseinsoltani.cryptocurrency.R
+import ir.hosseinsoltani.cryptocurrency.apiManager.*
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.ChartData
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinAboutItem
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinsData
+import ir.hosseinsoltani.cryptocurrency.databinding.ActivityCoinBinding
 
 class CoinActivity : AppCompatActivity() {
     lateinit var binding: ActivityCoinBinding

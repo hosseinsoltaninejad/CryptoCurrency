@@ -1,4 +1,4 @@
-package ir.hossein.cryptocurrency.features.marketActivity
+package ir.hosseinsoltani.cryptocurrency.features.marketActivity
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater
@@ -7,10 +7,10 @@ import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import ir.hossein.cryptocurrency.R
-import ir.hossein.cryptocurrency.apiManager.BASE_URL_IMAGE
-import ir.hossein.cryptocurrency.apiManager.model.CoinsData
-import ir.hossein.cryptocurrency.databinding.ItemRecyclerMarketBinding
+import ir.hosseinsoltani.cryptocurrency.R
+import ir.hosseinsoltani.cryptocurrency.apiManager.BASE_URL_IMAGE
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinsData
+import ir.hosseinsoltani.cryptocurrency.databinding.ItemRecyclerMarketBinding
 
 class MarketAdapter(
     private var data: ArrayList<CoinsData.Data>,

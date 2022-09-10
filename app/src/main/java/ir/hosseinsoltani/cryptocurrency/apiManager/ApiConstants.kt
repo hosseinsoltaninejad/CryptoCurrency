@@ -1,4 +1,4 @@
-package ir.hossein.cryptocurrency.apiManager
+package ir.hosseinsoltani.cryptocurrency.apiManager
 
 // base url =>
 const val BASE_URL = "https://min-api.cryptocompare.com/data/"

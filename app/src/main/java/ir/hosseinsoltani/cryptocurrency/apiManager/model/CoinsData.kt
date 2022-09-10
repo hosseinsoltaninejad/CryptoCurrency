@@ -1,4 +1,4 @@
-package  ir.hossein.cryptocurrency.apiManager.model
+package  ir.hosseinsoltani.cryptocurrency.apiManager.model
 
 
 import android.os.Parcelable

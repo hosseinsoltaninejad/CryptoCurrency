@@ -1,4 +1,4 @@
-package ir.hossein.cryptocurrency.features.marketActivity
+package ir.hosseinsoltani.cryptocurrency.features.marketActivity
 
 import android.content.Context
 import android.content.Intent
@@ -12,12 +12,12 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.google.gson.Gson
-import ir.hossein.cryptocurrency.apiManager.ApiManager
-import ir.hossein.cryptocurrency.apiManager.model.CoinAboutData
-import ir.hossein.cryptocurrency.apiManager.model.CoinAboutItem
-import ir.hossein.cryptocurrency.apiManager.model.CoinsData
-import ir.hossein.cryptocurrency.databinding.ActivityMarketBinding
-import ir.hossein.cryptocurrency.features.coinActivity.CoinActivity
+import ir.hosseinsoltani.cryptocurrency.apiManager.ApiManager
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinAboutData
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinAboutItem
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinsData
+import ir.hosseinsoltani.cryptocurrency.databinding.ActivityMarketBinding
+import ir.hosseinsoltani.cryptocurrency.features.coinActivity.CoinActivity
 
 // 1. add library
 // 2. internet permission

@@ -1,7 +1,7 @@
-package ir.hossein.cryptocurrency.features.coinActivity
+package ir.hosseinsoltani.cryptocurrency.features.coinActivity
 
 import com.robinhood.spark.SparkAdapter
-import ir.hossein.cryptocurrency.apiManager.model.ChartData
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.ChartData
 
 
 class ChartAdapter(

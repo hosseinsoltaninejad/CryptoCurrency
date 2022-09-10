@@ -1,8 +1,8 @@
-package ir.hossein.cryptocurrency.apiManager
+package ir.hosseinsoltani.cryptocurrency.apiManager
 
-import ir.hossein.cryptocurrency.apiManager.model.ChartData
-import ir.hossein.cryptocurrency.apiManager.model.CoinsData
-import ir.hossein.cryptocurrency.apiManager.model.NewsData
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.ChartData
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.CoinsData
+import ir.hosseinsoltani.cryptocurrency.apiManager.model.NewsData
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
